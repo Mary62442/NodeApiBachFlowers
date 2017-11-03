@@ -5,7 +5,7 @@
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
     <Name>NodeApi</Name>
     <RootNamespace>NodeApi</RootNamespace>
-    <NameOfLastUsedPublishProfile>NodeApi20171102091916 - Web Deploy</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>NodeApiBachMicro - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
@@ -37,10 +37,10 @@
     <Compile Include="mongoconfig.js">
       <SubType>Code</SubType>
     </Compile>
-    <None Include="NodeApi20171102091916 - Web Deploy.pubxml" />
     <Content Include="api.html">
       <SubType>Code</SubType>
     </Content>
+    <None Include="NodeApiBachMicro - Web Deploy.pubxml" />
     <Content Include="package.json" />
   </ItemGroup>
   <ItemGroup>
