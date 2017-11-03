@@ -29,8 +29,13 @@ var app = express();
 app.use(allowCrossDomain);
 
 app.get('/', (req, res, next) => {
-    let q = 5;
+   
     res.sendFile(path.join(__dirname + '/api.html'));   
+});
+
+app.get('/help', (req, res, next) => {
+   
+    res.send('Help Page');   
 });
 
 
