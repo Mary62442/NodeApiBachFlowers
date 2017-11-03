@@ -1,0 +1,2 @@
+C:\Users\Diego\Desktop\NodeApi\NodeApi\obj\Debug\NodeApi.njsproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\NodeApi\NodeApi\bin\Microsoft.NodejsTools.WebRole.dll
