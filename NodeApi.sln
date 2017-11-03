@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodeApi", "NodeApi\NodeApi.njsproj", "{73E148E9-6406-402A-BBB3-8A213F5D8CCE}"
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodeApi", "NodeApi.njsproj", "{73E148E9-6406-402A-BBB3-8A213F5D8CCE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
