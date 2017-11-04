@@ -11,6 +11,7 @@ let config = require('./mongoconfig');
 let mongoClient = require('mongodb');
 let path = require('path');
 let fs = require('fs');
+let bodyParser = require('body-parser');
 
 let allowCrossDomain = function (req, res, next) {
     res.header('Access-Control-Allow-Origin', '*');
@@ -25,8 +26,10 @@ let allowCrossDomain = function (req, res, next) {
     }
 }
 
-var app = express();
+let app = express();
 app.use(allowCrossDomain);
+app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({ extended: true }));
 
 app.get('/', (req, res, next) => {
    
@@ -82,6 +85,27 @@ app.get('/flower', (req, res, next) => {
     });
 });
 
+
+app.post('/updateflowernotes', (req, res, next) => {
+
+    mongoClient.connect(config.mongoConnectionString, (err, db) => {
+
+        let body = req.body;
+        if (err) console.log(err);
+        let flowers = db.collection('BachFlowers');
+        flowers.update({ Name: req.body.Name },
+            {
+                $set: { Notes: req.body.Notes }
+            }, { multi: false }, (err, result) => {
+                if (err) {
+                    console.log(err);
+                    res.send(JSON.stringify(err));
+                }
+                console.log('Successfuly updated: ' + result + ' records.');
+                res.send(JSON.stringify(result));
+            });
+    });
+});
 
 
 
