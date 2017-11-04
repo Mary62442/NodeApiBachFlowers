@@ -18,31 +18,31 @@ Steps to deploy to Azure
 
 Create an API on the Azure Portal and select it in App Services
 
-![](C:/Users/diego/Desktop/AppServices.JPG)
+![](livingDocumentation/images/AppServices.JPG)
 
 On the services menu in the deployment section click deployment options
 
-![](C:/Users/diego/Desktop/Deployment.JPG)
+![](livingDocumentation/images/Deployment.JPG)
 
 Once in the options click choose source and then choose GutHub from the list of
 sources
 
-![](C:/Users/diego/Desktop/DeploymentOptions.JPG)
+![](livingDocumentation/images/DeploymentOptions.JPG)
 
 Configure the GitHub profile and the repository needed to deploy to Azure
 
-![](C:/Users/diego/Desktop/Configured.JPG)
+![](livingDocumentation/images/Configured.JPG)
 
 Once done, test if it’s running by clicking the URL on the Overview page of the
 APIS.
 
-![](C:/Users/diego/Desktop/TestURL.JPG)
+![](livingDocumentation/images/TestURL.JPG)
 
 GitHub will automatically deploy to Azure and create a webhook showing which
 external services are notified when a change in the remote repository is
 committed and pushed.
 
-![](C:/Users/diego/Desktop/Webhook.JPG)
+![](livingDocumentation/images/Webhook.JPG)
 
 Description of the repository
 -----------------------------
