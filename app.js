@@ -12,6 +12,7 @@ let mongoClient = require('mongodb');
 let path = require('path');
 let fs = require('fs');
 let bodyParser = require('body-parser');
+let auth = require('basic-auth');
 
 let allowCrossDomain = function (req, res, next) {
     res.header('Access-Control-Allow-Origin', '*');
@@ -85,26 +86,43 @@ app.get('/flower', (req, res, next) => {
     });
 });
 
+app.post('/updateflowernotes', (req, res, next) => {
+    let credentials = auth(req);
+    if (!credentials || credentials.name !== 'diego' || credentials.pass !== 'secret') {
+        res.statusCode = 401;
+        res.setHeader('WWW-Authenticate', 'Basic realm = "example"');
+        res.end('Access denied');
+    } else {
+        // user is authenticated
+        res.statusCode = 200;
+        mongoClient.connect(config.mongoConnectionString, (err, db) => {
+            let body = req.body;
+            if (err) console.log(err);
+            let flowers = db.collection('BachFlowers');
+            flowers.update({ Name: req.body.Name },
+                {
+                    $set: { Notes: req.body.Notes }
+                }, { multi: false }, (err, result) => {
+                    if (err) {
+                        console.log(err);
+                        res.send(JSON.stringify(err));
+                    }
+                    console.log('Successfuly updated: ' + result + ' records.');
+                    res.send(JSON.stringify(result));
+                });
+        });    
+    }
+});
+
 
 app.post('/updateflowernotes', (req, res, next) => {
 
-    mongoClient.connect(config.mongoConnectionString, (err, db) => {
 
-        let body = req.body;
-        if (err) console.log(err);
-        let flowers = db.collection('BachFlowers');
-        flowers.update({ Name: req.body.Name },
-            {
-                $set: { Notes: req.body.Notes }
-            }, { multi: false }, (err, result) => {
-                if (err) {
-                    console.log(err);
-                    res.send(JSON.stringify(err));
-                }
-                console.log('Successfuly updated: ' + result + ' records.');
-                res.send(JSON.stringify(result));
-            });
-    });
+
+   
+
+
+
 });
 
 
