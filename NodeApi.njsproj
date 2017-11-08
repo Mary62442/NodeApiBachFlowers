@@ -41,6 +41,9 @@
       <SubType>Code</SubType>
     </Content>
     <None Include="NodeApiBachMicro - Web Deploy.pubxml" />
+    <Content Include="data\youtube.json">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="package.json" />
   </ItemGroup>
   <ItemGroup>
