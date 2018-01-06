@@ -20,7 +20,7 @@ let allowCrossDomain = function (req, res, next) {
     res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization, Content-Length, X-Requested-With');
     // intercept OPTIONS method
     if ('OPTIONS' == req.method) {
-        res.send(200);
+        res.sendStatus(200);
     }
     else {
         next();
@@ -59,11 +59,13 @@ app.get('/flowerstatic', (req, res, next) => {
 });
 
 app.get('/flowers', (req, res, next) => {
-    mongoClient.connect(config.mongoConnectionString, (err, db) => {
+    mongoClient.connect(config.mongoConnectionString, (err, client) => {
         if (err) res.send('error');
+
+        const db = client.db('marymongodb');
         //assert.equal(null, err);
         db.collection('BachFlowers').find({}).toArray((err, flowers) => {
-            db.close();
+            client.close();
             res.send(flowers);
         });
     });
@@ -74,10 +76,12 @@ app.get('/flowers', (req, res, next) => {
 app.get('/flower', (req, res, next) => {
     
     let qs = req.query;
-    mongoClient.connect(config.mongoConnectionString, (err, db) => {
+    mongoClient.connect(config.mongoConnectionString, (err, client) => {
+        const db = client.db('marymongodb');
+
         if (err) res.send('error');
         db.collection('BachFlowers').findOne({ Name: qs.flowerName }, function (err, flower) {
-            db.close();
+            client.close();
             if (err !== null) {
                 res.send('No flower has been found!');
             }
@@ -95,9 +99,10 @@ app.post('/updateflowernotes', (req, res, next) => {
     } else {
         // user is authenticated
         res.statusCode = 200;
-        mongoClient.connect(config.mongoConnectionString, (err, db) => {
+        mongoClient.connect(config.mongoConnectionString, (err, client) => {
             let body = req.body;
             if (err) console.log(err);
+            const db = client.db('marymongodb');
             let flowers = db.collection('BachFlowers');
             flowers.update({ Name: req.body.Name },
                 {
@@ -107,22 +112,12 @@ app.post('/updateflowernotes', (req, res, next) => {
                         console.log(err);
                         res.send(JSON.stringify(err));
                     }
+                    client.close();
                     console.log('Successfuly updated: ' + result + ' records.');
                     res.send(JSON.stringify(result));
                 });
         });    
     }
-});
-
-
-app.post('/updateflowernotes', (req, res, next) => {
-
-
-
-   
-
-
-
 });
 
 
