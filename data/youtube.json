@@ -1,0 +1,2251 @@
+﻿{
+  "kind": "youtube#activityListResponse",
+  "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/b80V51hSVOV8TASbN8yOKH7xKQs\"",
+  "nextPageToken": "CDIQAA",
+  "pageInfo": {
+    "totalResults": 104,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/D9lerDJ6KGBCFJ3Z53n0vaJvFwI\"",
+      "id": "VTE1MTAwOTIyODk5NDc3MjA5NzU4MDYyNA==",
+      "snippet": {
+        "publishedAt": "2017-11-07T22:04:49.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "AdMob Campaigns - AdMob Quick Tip #8",
+        "description": "Have you tried an AdMob campaign yet? They're a new and powerful way to show your ads in your own apps. You can cross-promote your apps, drive traffic to your web site, and even run your own reserved campaigns with creatives you design and upload! Learn more in Quick Tip #8 from the Mobile Ads Garage.\n\nWatch more episodes of Mobile Ads Garage here: https://goo.gl/BDQvw6\n\nSubscribe to the Google Developers channel at http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uge4IIJxpJU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uge4IIJxpJU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uge4IIJxpJU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uge4IIJxpJU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uge4IIJxpJU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "uge4IIJxpJU"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/Vi5Scr9DPbuZey4oSv2JROacM94\"",
+      "id": "VTE1MDk3NDMzNTA5NDc3MjMwMzQzNjg4MA==",
+      "snippet": {
+        "publishedAt": "2017-11-03T21:09:10.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "The Developer Show (TL;DR 087)",
+        "description": "Android 8.1 Developer Preview: https://goo.gl/EwKLVq\nAndroid Studio 3.0: https://goo.gl/vSFAfv\nGo 1.8 on App Engine: https://goo.gl/Ly6Nn3\nGmail add-ons: https://goo.gl/F9Kbpt\nChrome 63 Beta: https://goo.gl/VNyVp7\nGCP Podcast: https://goo.gl/qj9MB8\nBuild Out: https://goo.gl/2QjxQA\n\n\nThe Developer Show is where you can stay up to date on all the latest Google Developer news, straight from the experts. \n\nHave a question? Use #AskDevShow to let us know!\n\nSubscribe to the Google Developers Channel for more DevShow! http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Few16FmZjSs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Few16FmZjSs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Few16FmZjSs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Few16FmZjSs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Few16FmZjSs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "Few16FmZjSs"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/WKIU9e9LkTA7wf_e30psRsjIVbA\"",
+      "id": "VTE1MDk0ODU2Mjk5NDc3MjE2Mzg5MzEzNg==",
+      "snippet": {
+        "publishedAt": "2017-10-31T21:33:49.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "With or without Firebase - AdMob Quick Tip #7",
+        "description": "AdMob is part of the Firebase platform of services, but you can still use it as a standalone service. Confused? There's no need to be! Learn about how Firebase and AdMob relate (and how to set up your app either way) with Quick Tip #7.\n\nWatch more episodes of Mobile Ads Garage here: https://goo.gl/BDQvw6\n\nSubscribe to the Google Developers channel at http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/13E3XimOzWU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/13E3XimOzWU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/13E3XimOzWU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/13E3XimOzWU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/13E3XimOzWU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "13E3XimOzWU"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/h6VH5J5u5ULSISEU-eS4YJK3tgo\"",
+      "id": "VTE1MDkzODYzNjE5NDc3MjE2Mzg5MjQzMg==",
+      "snippet": {
+        "publishedAt": "2017-10-30T17:59:21.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Intro to Feature Engineering with TensorFlow - Machine Learning Recipes #9",
+        "description": "Hey everyone! Here’s an intro to techniques you can use to represent your features - including Bucketing, Crossing, Hashing, and Embedding - and utilities TensorFlow provides to help. Also included is a walkthrough of using TensorFlow Estimators to classify structured data. \n\nLinks from the video:\n\nCode - https://goo.gl/K9dVqv\nFacets: https://goo.gl/Dfpb7W\nTensorFlow Embedding Projector: https://goo.gl/2SxrYK\n\nYou can find Josh on Twitter: https://twitter.com/random_forests\n\nSee Josh as a guest speaker in Week 2 of the openSAP course: https://goo.gl/UGGcX7\n\nThanks, and have fun!\n\nCheck out more Machine Learning Recipes here: https://goo.gl/KewA03\nSubscribe to the Google Developers channel: http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d12ra3b_M-0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d12ra3b_M-0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d12ra3b_M-0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/d12ra3b_M-0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/d12ra3b_M-0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "d12ra3b_M-0"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/LaRvLZn3_kDEkajmJs1ww_RdXV0\"",
+      "id": "VTE1MDkxMzg4MTM5NDc3MjE2Mzg5MjM2OA==",
+      "snippet": {
+        "publishedAt": "2017-10-27T21:13:33.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "The Developer Show (TL;DR 086)",
+        "description": "Google Play's Indie Games Contest: https://goo.gl/AKhQJz\nOpenFermion: https://goo.gl/PRtfLd\nVideo Dataset of Human Actions: https://goo.gl/C6CHXE\nNew ways to manage sensitive data with the Data Loss Prevention API: https://goo.gl/FCUgHr\nGoogle Cloud Launcher: https://goo.gl/ESnwTp\nGet your ads ready for iPhone X: https://goo.gl/v6ronh\n\nThe Developer Show is where you can stay up to date on all the latest Google Developer news, straight from the experts. \n\nHave a question? Use #AskDevShow to let us know!\n\nSubscribe to the Google Developers Channel for more DevShow! http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/usowH8hdM9I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/usowH8hdM9I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/usowH8hdM9I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/usowH8hdM9I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/usowH8hdM9I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "usowH8hdM9I"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/vRUadWbTBvgAXG9ButZp5ZShiDE\"",
+      "id": "VTE1MDkwNjE2OTk5NDc3MjE2Mzg5MzAwOA==",
+      "snippet": {
+        "publishedAt": "2017-10-26T23:48:19.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Cloud, Containers, and Kubernetes over Coffee with Carter Morgan",
+        "description": "Cloud, containers, comedy, and more as Laurence Moroney (@lmoroney) catches up with Carter Morgan (@_askcarter) to talk about the role of a Developer Programs Engineer at Google. We also learn about his famous application letter that included Google Colors, haikus, and more. Read it here: https://goo.gl/v1o4a8. \n\nWatch Carter's videos here: https://goo.gl/uSJreJ\n\nCheck out Carter's Udacity course on Scalable Microservices with Kubernetes: https://goo.gl/7Pi9se\n\nWatch more episodes of Coffee with a Googler here: https://goo.gl/5l123N\nSubscribe to the Google Developers Channel: http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9P3h6-_UJAQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9P3h6-_UJAQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9P3h6-_UJAQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9P3h6-_UJAQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9P3h6-_UJAQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "9P3h6-_UJAQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/ZvUV9MfKo9IIb5AZzo5vi8cS7QU\"",
+      "id": "VTE1MDg4Nzg4MDE5NDc3MjE2Mzg5NDI4OA==",
+      "snippet": {
+        "publishedAt": "2017-10-24T21:00:01.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "App ID vs. Ad Unit ID - AdMob Quick Tip #6",
+        "description": "Register an ad unit with AdMob and you'll get two different ID values: an App ID and an Ad Unit ID. Check out Quick Tip #6 from the Mobile Ads Garage to learn what they represent, and which one goes where in the SDK's API.\n\nWatch more episodes of Mobile Ads Garage here: https://goo.gl/BDQvw6\n\nSubscribe to the Google Developers channel at http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BHLeAMcykOI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BHLeAMcykOI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BHLeAMcykOI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BHLeAMcykOI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BHLeAMcykOI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "BHLeAMcykOI"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/Lwexdc_F3A4bWzOH904MyQ9Herg\"",
+      "id": "VTE1MDg4NjQ3MDY5NDc3MjE2Mzg5NDczNg==",
+      "snippet": {
+        "publishedAt": "2017-10-24T17:05:06.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Expediting Expense Reports with Gmail Add-Ons (The G Suite Dev Show)",
+        "description": "Gmail add-ons are a powerful new way to add your app functionality alongside messages in Gmail. add-ons extend the functionality of G Suite applications such as Google Sheets, Docs, Forms, and now Gmail. Gmail add-ons appear as embedded \"mini apps\" in the  Gmail apps on desktop and mobile. In this video, we're going to explore a nifty little add-on that allows users expedite expense report creation using email receipts received by the user with the help of Google Sheets. Add-ons are powered by Google Apps Script, a JavaScript-in-the-cloud platform that lets developers build apps which can access data in G Suite plus other Google & external services.\n\nExpenseIt! Gmail add-ons codelab: https://goo.gl/NdtnJk\nGmail add-ons pre-announcement at Google Cloud Next 2017: http://goo.gl/pYhq4s\n“Gmail add-ons: A new way to integrate your app into Gmail” Cloud Next 2017 talk video: https://goo.gl/VgBfmn\nGmail add-ons overview docs page: https://goo.gl/M9EH7V\nGmail add-ons quickstart: https://goo.gl/dz4Xfj\nAdd-ons for Google Docs, Sheets, and Forms docs page: https://goo.gl/Gqba4V\nGoogle Apps Script DevByte video collection: https://goo.gl/ZaQwZ8\nLaunchpad Online developer video series playlist: http://goo.gl/kFMUa6\n\nG Suite Dev Show video series playlist: http://goo.gl/JpBQ40\n\nSubscribe to the Google Developers Channel for new episodes of the G Suite Dev Show: http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9cDvkVCcIWE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9cDvkVCcIWE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9cDvkVCcIWE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9cDvkVCcIWE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9cDvkVCcIWE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "9cDvkVCcIWE"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/l0Q9m3fwFjLRCvJaoLAO9xNdhvk\"",
+      "id": "VTE1MDg3ODE2NjE5NDc3MjE2Mzg5NDIyNA==",
+      "snippet": {
+        "publishedAt": "2017-10-23T18:01:01.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Artificial Intelligence and High School Students -- Trying AIY for the First Time!",
+        "description": "When we made episodes of #CoffeeWithAGoogler covering Google's Artificial Intelligence Yourself (AIY) project, we wanted to test the product with a group of high school kids. We were blown away by the results -- come check it out for yourself!\n\n#CoffeeWithAGoogler episodes on AIY:\nVoice Activated Artificial Intelligence for Makers - https://goo.gl/Dbka23\nArtificial Intelligence over Coffee with James McLurkin - https://goo.gl/qMqpxx\n\nGet started with AIY - https://aiyprojects.withgoogle.com/\n\nWatch more episodes of Coffee with a Googler here: https://goo.gl/5l123N\nSubscribe to the Google Developers Channel: http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X93Xn1YfY7k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X93Xn1YfY7k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X93Xn1YfY7k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X93Xn1YfY7k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X93Xn1YfY7k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "X93Xn1YfY7k"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/gr4mOvAyFxEa0KESVIP89QrkhLg\"",
+      "id": "VTE1MDg1MzM2NTU5NDc3MjE2Mzg5Mzc3Ng==",
+      "snippet": {
+        "publishedAt": "2017-10-20T21:07:35.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "The Developer Show (TL;DR 085)",
+        "description": "Android Instant Apps SDK 1.1: https://goo.gl/6SzPSt\nFirebase Test Lab Update: https://goo.gl/6EpWL7\nIntroducing Dialogflow: https://goo.gl/gL5NYT\nTensorFlow Lattice: https://goo.gl/517h9U\nRuby apps with Stackdriver: https://goo.gl/36g3pE\nApp Engine firewall: https://goo.gl/79CUzS\nThe new AdWords experience: https://goo.gl/o1M2Zt\nGrow with Google scholarships: https://goo.gl/uYsK6x\n\n\nThe Developer Show is where you can stay up to date on all the latest Google Developer news, straight from the experts. \n\nHave a question? Use #AskDevShow to let us know!\n\nSubscribe to the Google Developers Channel for more DevShow! http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8Ks_vUtH_sU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8Ks_vUtH_sU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8Ks_vUtH_sU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8Ks_vUtH_sU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8Ks_vUtH_sU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "8Ks_vUtH_sU"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/eOpm_eDmJLET3rFatimEXlfThpE\"",
+      "id": "VTE1MDg0NDc4OTg5NDc3MjE2Mzg5Mjk0NA==",
+      "snippet": {
+        "publishedAt": "2017-10-19T21:18:18.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Ruby, Cloud, and more as #CoffeeWithAGoogler meets Aja Hammerly",
+        "description": "Laurence (@lmoroney) meets with Aja Hammerly (@the_thagomizer), a developer Advocate at Google working on the Cloud Platform. Aja is super famous in the Ruby community, so they catch up on what's latest with Ruby, and what other cool stuff Aja gets to hack on all day...\n\nWatch more episodes of Coffee with a Googler here: https://goo.gl/5l123N\nSubscribe to the Google Developers Channel: http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qCNomeCHWAE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qCNomeCHWAE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qCNomeCHWAE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qCNomeCHWAE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qCNomeCHWAE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "qCNomeCHWAE"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/HjEkWSicHopMmtIVb0E0rsry_zE\"",
+      "id": "VTE1MDg0MzMwMDY5NDc3MjE2Mzg5NDM1Mg==",
+      "snippet": {
+        "publishedAt": "2017-10-19T17:10:06.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "AdMob Rewarded Video - Mobile Ads Garage #8",
+        "description": "It used to be that AdMob publishers who wanted to use rewarded video ads were forced to use mediation to source their ads from third party networks. With the introduction of AdMob's own rewarded video demand, though, that step is no longer necessary. Publishers can load and show rewarded video directly from Google's network of advertisers with no third party SDKs or mediation adapters required.\n\nIn this video, you'll learn what makes rewarded stand out from other formats, how it can fit into your apps and games, plus see full implementation screencasts in iOS and Android.\n\nAdMob SDK Forum - https://goo.gl/MJfJ9N\niOS rewarded video guide: https://goo.gl/X4ttRX\nAndroid rewarded video guide: https://goo.gl/LAUzjV\nUnity rewarded video guide: https://goo.gl/6Yeqrk\nAndroid open source samples: https://goo.gl/9JNwCD\niOS open source samples: https://goo.gl/ssxSdA\n\nWatch more episodes of Mobile Ads Garage here: https://goo.gl/BDQvw6\n\nSubscribe to the Google Developers channel at http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_Hg_v2AG7Lw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_Hg_v2AG7Lw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_Hg_v2AG7Lw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_Hg_v2AG7Lw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_Hg_v2AG7Lw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "_Hg_v2AG7Lw"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/yLxOi-TymoQZ_TS1s_UUo-D8pPc\"",
+      "id": "VTE1MDgyNzc4ODk5NDc3MjE2Mzg5MTg1Ng==",
+      "snippet": {
+        "publishedAt": "2017-10-17T22:04:49.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Automatic Network Optimization - AdMob Quick Tip #5",
+        "description": "AdMob's automatic network optimization can help your mediated ad units generate as much revenue as possible, and setting it up just takes a moment. Learn how in Quick Tip #5 from the Mobile Ads Garage.\n\nWatch more episodes of Mobile Ads Garage here: https://goo.gl/BDQvw6\n\nSubscribe to the Google Developers channel at http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D4_gQ4BrI0I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D4_gQ4BrI0I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D4_gQ4BrI0I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D4_gQ4BrI0I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D4_gQ4BrI0I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "D4_gQ4BrI0I"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/naq6RBFTeyxjLVP_qn3EzBOj4go\"",
+      "id": "VTE1MDc5Mjg1MzY5NDc3MjE2Mzg5MjQ5Ng==",
+      "snippet": {
+        "publishedAt": "2017-10-13T21:02:16.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "The Developer Show (TL;DR 084)",
+        "description": "Apps for the Google Assistant: https://goo.gl/pCPNbw\nGoogle Assistant on Android TV: https://goo.gl/M3jCBy\nIntroducing Cloud Firestore: https://goo.gl/7a4VEs\nManaging Google Cloud Platform with Chef: https://goo.gl/erbNbv\nPHP 7.1 for Google App Engine now GA: https://goo.gl/a6NxCy\nNested virtualization for Google Compute Engine: https://goo.gl/ifkUjF\nJava 8 on App Engine standard environment now GA: https://goo.gl/g1SSM3\nIntroducing Abseil, a new common libraries project: https://goo.gl/avHvkz\n\n\nThe Developer Show is where you can stay up to date on all the latest Google Developer news, straight from the experts. \n\nHave a question? Use #AskDevShow to let us know!\n\nSubscribe to the Google Developers Channel for more DevShow! http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9XVasMSJSoU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9XVasMSJSoU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9XVasMSJSoU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9XVasMSJSoU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9XVasMSJSoU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "9XVasMSJSoU"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/Z0ZerCoR5t0_Qdp9zep7UAWtzqs\"",
+      "id": "VTE1MDc5MTQwODI5NDc3MjE2Mzg5MTk4NA==",
+      "snippet": {
+        "publishedAt": "2017-10-13T17:01:22.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Learn How to Design Better Google Assistant Apps",
+        "description": "The Google Assistant is the conversation between the users and Google. Users can get things done by talking with the Assistant. \n \nDesigning a spoken dialog between a human and a computer - in advance - accounting for all the possibilities, both in function and user behavior, and still have it feel natural - is hard!\n\nJoin @greenido to learn what can you do better when you design your next Google assistant app.\n\nLearn more here:\nConversational UI: https://goo.gl/DUFxtM \nConversational UI PDF: https://goo.gl/FG4bUa\nActions on Google: https://developers.google.com/actions/\n\nWatch more videos on how to build Google Assistant apps: https://goo.gl/SWJfNC\n\nSubscribe to the channel to never miss an episode: http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cHEahGHseGc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cHEahGHseGc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cHEahGHseGc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cHEahGHseGc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cHEahGHseGc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "cHEahGHseGc"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/kldhDg5fFpylSiHfXrEzPLuu0UY\"",
+      "id": "VTE1MDc4NDIyMDc5NDc3MjE2Mzg5MTkyMA==",
+      "snippet": {
+        "publishedAt": "2017-10-12T21:03:27.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Android Studio, Kotlin and more with Stephanie Saad Cuthbertson",
+        "description": "In this episode of Coffee with a Googler, Laurence (@lmoroney) meets with Stephanie Saad Cuthbertson to geek out over Android Studio, the Kotlin addition, and some of the fun background stories about how the Kotlin reveal happened at Google IO 2017!\n\nLearn more about this great language at kotlinlang.org and Android Studio at https://goo.gl/y7rLvr\n\nWatch more episodes of Coffee with a Googler here: https://goo.gl/5l123N\nSubscribe to the Google Developers Channel: http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Te0e2pZO-is/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Te0e2pZO-is/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Te0e2pZO-is/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Te0e2pZO-is/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Te0e2pZO-is/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "Te0e2pZO-is"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/AeiymGhji4f97THlGMDqEjImmtc\"",
+      "id": "VTE1MDc3NTkxNDA5NDc3MjE2Mzg5MzkwNA==",
+      "snippet": {
+        "publishedAt": "2017-10-11T21:59:00.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Actions on Google: Internationalization",
+        "description": "Actions on Google Localization documentation: https://goo.gl/ab5qXp\n\nWayne Piekarski introduces how to handle different languages and locales with Actions on Google, for the Google Assistant. Developers can support multiple languages in the same Dialogflow projects, and customize apps to support many languages while being available only in specified locations.\n\nSamples:\nhttps://github.com/actions-on-google\n\nCommunities:\nhttps://goo.gl/QcnFxN\nhttps://goo.gl/Ubka8W\n\nhttps://twitter.com/waynepiekarski\nhttps://google.com/+WaynePiekarski\n\nCheck out the Actions on Google playlist: https://goo.gl/ZhXmtL\n\nSubscribe to the channel to never miss an episode: http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6cpqj7FOWrs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6cpqj7FOWrs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6cpqj7FOWrs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6cpqj7FOWrs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6cpqj7FOWrs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "6cpqj7FOWrs"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/u0sdAGye24V0T-kH4-0aD8AujSo\"",
+      "id": "VTE1MDc3NDE0NzI5NDc3MjE2Mzg5MzY0OA==",
+      "snippet": {
+        "publishedAt": "2017-10-11T17:04:32.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Introduction to TensorFlow Lattice",
+        "description": "Check out Gitbub Repo for instructions and examples: https://goo.gl/LbVVPh\nAlso take a look at the Deep Lattice Networks publication for mathematical details: https://goo.gl/REE6cb\n\nMaya Gupta, Seungil You and Jan Pfeifer introduce TensorFlow Lattice. TensorFlow Lattice is an open source project that provides a set of prebuilt TensorFlow Estimators that are easy to use, and TensorFlow operators to build your own lattice models. Lattices are multi-dimensional interpolated look-up tables that can approximate any input-output relationships in your data. Furthermore, TensorFlow Lattice provides a way to impose a monotonic input-output relationship (an input goes up, then the output goes up) and smooth regularizers including Laplacian, Torsion to help your model generalize better for unseen feature space. \n\nSubscribe to the Google Developers Channel: http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kaPheQxIsPY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kaPheQxIsPY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kaPheQxIsPY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kaPheQxIsPY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kaPheQxIsPY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "kaPheQxIsPY"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/EZbpTH-GUGpRxtD2e7TdNiZUAMw\"",
+      "id": "VTE1MDc2NjkzNTI5NDc3MjE2Mzg5NTEyMA==",
+      "snippet": {
+        "publishedAt": "2017-10-10T21:02:32.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Ad Unit Spinup Time - AdMob Quick Tip #4",
+        "description": "Like a newborn deer, AdMob's ad units sometimes need a minute or two before they're ready to run. Learn a bit about spin up time in Quick Tip #4 from the Mobile Ads Garage.\n\nWatch more episodes of Mobile Ads Garage here: https://goo.gl/BDQvw6\n\nSubscribe to the Google Developers channel at http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d-kzhpdKmTQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d-kzhpdKmTQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d-kzhpdKmTQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/d-kzhpdKmTQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/d-kzhpdKmTQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "d-kzhpdKmTQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/xWWSmH57pgrKjkQN1muBayNh7n8\"",
+      "id": "VTE1MDczMDk2MTc5NDc3MjE2Mzg5NDAzMg==",
+      "snippet": {
+        "publishedAt": "2017-10-06T17:06:57.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "How to Publish a Google Assistant App That Will Pass Review",
+        "description": "The Google Assistant is the conversation between the users and Google. Users can get things done by talking with the Assistant. After you've designed conversations and developed apps, you're probably ready to share them with users. \n\nJoin @greenido to learn how to prepare for deployment and pass the app review process.\n \nLearn more here:\nApp Review blog post: https://goo.gl/d6t8Na\nRegistering and Publishing Your App: https://goo.gl/1GXQUP\nActions on Google: https://developers.google.com/actions/\n\nWatch more videos on how to build Google Assistant apps: https://goo.gl/SWJfNC\n\nSubscribe to the channel to never miss an episode: http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GKP4AS4L_K8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GKP4AS4L_K8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GKP4AS4L_K8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GKP4AS4L_K8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GKP4AS4L_K8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "GKP4AS4L_K8"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/1lQGex7e7Kyv6ygLPkvnj9Is0nk\"",
+      "id": "VTE1MDcyMzc5NTU5NDc3MjE4ODc0MjQ4MA==",
+      "snippet": {
+        "publishedAt": "2017-10-05T21:12:35.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Kotlin and Android Studio: #CoffeeWithAGoogler meets Jeffrey Van Gogh",
+        "description": "Did you know that you can now build Android apps using Kotlin? In this episode of Coffee with a Googler, Laurence Moroney (@lmoroney) meets Jeffrey Van Gogh and chats about how we brought Kotlin to Android  Studio. \n\nMore about Android Studio here: https://goo.gl/Haaovn \nLearn more about Kotlin here: https://goo.gl/lbMKT6\n\nWatch more episodes of Coffee with a Googler here: https://goo.gl/5l123N\nSubscribe to the Google Developers Channel: http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YdATt4-3gYU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YdATt4-3gYU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YdATt4-3gYU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YdATt4-3gYU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YdATt4-3gYU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "YdATt4-3gYU"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/6FH93njsca-vws6XxZn4VJxTYlc\"",
+      "id": "VTE1MDcwNDMwNjU5NDc3MjE4ODc0NDQwMA==",
+      "snippet": {
+        "publishedAt": "2017-10-03T15:04:25.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "A.I. Experiments: Teachable Machine",
+        "description": "Teachable Machine is an experiment that makes it easier for anyone to start exploring how machine learning works. It lets you teach a machine using your camera – live in the browser, no coding required. It’s built with a library called deeplearn.js, which makes it easier for any web developer to get into machine learning, by training and running neural nets right in the browser.\n\nThis experiment was a collaborative effort by friends from Støj (http://www.stoj.io), Use All Five (https://useallfive.com) and Creative Lab and PAIR teams at Google.\n\nCheck out the demo: https://teachablemachine.withgoogle.com/\n\nGet the code: https://goo.gl/HWuSg8\n\nCheck out more A.I. Experiments: https://goo.gl/XMjRgP\n\nLearn more about deeplearn.js: https://goo.gl/sug2y6\n\nFig Leaf Rag - distressed by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://goo.gl/hNRHCd) \nSource: https://goo.gl/zFoVgi\n\nSubscribe to the Google Developers Channel: http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3BhkeY974Rg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3BhkeY974Rg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3BhkeY974Rg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3BhkeY974Rg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3BhkeY974Rg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "3BhkeY974Rg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/k7d6CorZ1yjTPx8a3EpFM6nZvU0\"",
+      "id": "VTE1MDY3MTkzNjk5NDc3MjE4ODc0NDAxNg==",
+      "snippet": {
+        "publishedAt": "2017-09-29T21:09:29.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "The Developer Show (TL;DR 083)",
+        "description": "Google Play Billing Library 1.0: https://goo.gl/7Lfg1B\nFaster GPUs for Google Compute Engine: https://goo.gl/gi4FrT\nGoogle Cloud Dataprep: https://goo.gl/hUkg6w\nCloud Natural Language: https://goo.gl/8F6bLX\nNLP story: https://goo.gl/8suZxP\nCommitted use discounts for Google Compute Engine: https://goo.gl/eBdXjE\nStackdriver Debugger for Node.js: https://goo.gl/29ZBGq\nNew Ways to Connect and Measure on YouTube: https://goo.gl/NPXJ1W\n\n\nThe Developer Show is where you can stay up to date on all the latest Google Developer news, straight from the experts. \n\nHave a question? Use #AskDevShow to let us know!\n\nSubscribe to the Google Developers Channel for more DevShow! http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OtqkQZz8VUc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OtqkQZz8VUc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OtqkQZz8VUc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OtqkQZz8VUc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OtqkQZz8VUc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "OtqkQZz8VUc"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/QkmQXVG6aK8Cm6nC5_jFLwI4x0I\"",
+      "id": "VTE1MDY3MDQ2NzA5NDc3MjE4ODc0MjYwOA==",
+      "snippet": {
+        "publishedAt": "2017-09-29T17:04:30.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Create Your First Google Assistant App That Uses Your Server",
+        "description": "Apps for the Google Assistant are the gateway for your users to engage with your services through Google Home, Android phones, iPhones, and in the future, through every experience where the Google Assistant is available. \n\nIn this video, @greenido shows you how to use server side logic and build an assistant app that communicates with your server.\n\nFYI: API.AI changed its name to Dialogflow!\n\nLearn more here:\nCodelab: https://goo.gl/wv5Rxi\nCode from this video: https://goo.gl/syCqBN\nActions on Google: https://developers.google.com/actions/\n\nWatch more videos on how to build Google Assistant apps: https://goo.gl/SWJfNC\n\nSubscribe to the channel to never miss an episode: http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ykSFAs6S_Kg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ykSFAs6S_Kg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ykSFAs6S_Kg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ykSFAs6S_Kg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ykSFAs6S_Kg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "ykSFAs6S_Kg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/B25Lqqao80uaCSt7P5ZKOhmLE64\"",
+      "id": "VTE1MDY2NDY0NzI5NDc3MjE4ODc0NTEwNA==",
+      "snippet": {
+        "publishedAt": "2017-09-29T00:54:32.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Voice Activated Artificial Intelligence for Makers: #CoffeeWithAGoogler",
+        "description": "In this episode, @lmoroney meets Billy Rutledge of Google AIY to talk about the product, how it came about, and how you can get started with building your own Artificial Intelligence! \n\nLearn more at https://aiyprojects.withgoogle.com/\n\nWatch more episodes of Coffee with a Googler here: https://goo.gl/5l123N\nSubscribe to the Google Developers Channel: http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Cn2dlrSSiso/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Cn2dlrSSiso/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cn2dlrSSiso/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Cn2dlrSSiso/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Cn2dlrSSiso/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "Cn2dlrSSiso"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/kxibdpa0RB2GRKt__q__hbHpgPA\"",
+      "id": "VTE1MDY2MjQ2ODI5NDc3MjE4ODc0MTk2OA==",
+      "snippet": {
+        "publishedAt": "2017-09-28T18:51:22.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "The Developer Show (GDD Europe ‘17) w/ Dan Galpin",
+        "description": "Dan Galpin takes us around GDD Europe ‘17 and interviews speakers, codelab leads, and training specialists to highlight some of the great features of this past GDD event. Check out the links below for more details.\n\nGoogle Developer Days Europe 2017 - Recorded Sessions: https://goo.gl/6BFfHv\nGDD Europe ‘17 highlight video: https://goo.gl/RExJUB\nGDD Europe ‘17 event website: https://goo.gl/gqz1Fw\nGoogle Developers Certification Page: https://goo.gl/5mdzsL\nUdacity Scholarships: https://goo.gl/hcWQrp\n\n\nThe Developer Show is where you can stay up to date on all the latest Google Developer news, straight from the experts. \n\nHave a question? Use #AskDevShow to let us know!\n\nSubscribe to the Google Developers Channel for more DevShow! http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Nn97goCmjFE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Nn97goCmjFE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nn97goCmjFE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Nn97goCmjFE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Nn97goCmjFE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "Nn97goCmjFE"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/RakurQbreUomRf83oKzwBGtvN7I\"",
+      "id": "VTE1MDY1MzE3MDk5NDc3MjE4ODc0MjE2MA==",
+      "snippet": {
+        "publishedAt": "2017-09-27T17:01:49.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Generating Google Slides from images using Apps Script (The G Suite Dev Show)",
+        "description": "Slide shows have come a long way, from hand shadows in caves over a fire, followed by shadow puppetry, followed by magic lanterns, to Uncle Bob's endless family vacation on 35mm slide carousels, and finally, to today's generation of presentation software. One relatively recent innovation is the ability to create applications that automate creating & updating presentations. With the ability to access Google Slides from Google Apps Script, coding presentations has made it to the cloud! In this video, engineer Wesley Chun (@wescpy) demonstrates a short script that auto-generates slide decks from a small collection of images. Once you know how to use this service, let your imagination run wild with what you can do with it!\n\nCreating slide show from images tutorial: https://goo.gl/Rg6X2x\nGoogle Apps Script intro video: http://goo.gl/1sXeuD\nSlides Service documentation: https://goo.gl/c3GKP2\nWrite Add-ons with Apps Script: https://goo.gl/f2ruaB\nPublishing your Add-ons: https://goo.gl/esm4CW\nGoogle Apps Script DevByte video collection: https://goo.gl/4pCzt7\nSlides REST API videos: https://goo.gl/8sZdDQ\nStandalone scripts: https://goo.gl/RshSUR\nGoogle Drive Service documentation: https://goo.gl/n9pYht\nDrive file picker dialog user interface: https://goo.gl/QbVARW\n\nG Suite Dev Show video series playlist: http://goo.gl/JpBQ40\nLaunchpad Online developer video series playlist: http://goo.gl/kFMUa6\n\nSubscribe to the Google Developers Channel for new episodes of the G Suite Dev Show: http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rTDz-Zcn7yk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rTDz-Zcn7yk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rTDz-Zcn7yk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rTDz-Zcn7yk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rTDz-Zcn7yk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "rTDz-Zcn7yk"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/ksNRN6rD1YWQqeWXpWxPQjpkZx4\"",
+      "id": "VTE1MDY0NTk2OTI5NDc3MjE4ODc0MjI4OA==",
+      "snippet": {
+        "publishedAt": "2017-09-26T21:01:32.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Bookmark Your Reports! - AdMob Quick Tip #3",
+        "description": "Do you use AdMob's reporting to check in on your impressions, fill rate, and revenue? Do you find yourself clicking on the same filters and dimensions to bring up the same report every day? Learn how to set a report up once and get back to it quickly in AdMob's Quick Tip #3.\n\nWatch more episodes of Mobile Ads Garage here: https://goo.gl/BDQvw6\n\nSubscribe to the Google Developers channel at http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wiuDqJahljQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wiuDqJahljQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wiuDqJahljQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wiuDqJahljQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wiuDqJahljQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "wiuDqJahljQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/v4eaJcWqI00UQsrigm0Xp7kTN5E\"",
+      "id": "VTE1MDYxMTQwMDI5NDc3MjE4ODc0NDc4NA==",
+      "snippet": {
+        "publishedAt": "2017-09-22T21:00:02.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "The Developer Show (TL;DR 082)",
+        "description": "TensorFlow Datasets and Estimators: https://goo.gl/8sd84S\nInfinite Deviation: Games: https://goo.gl/fP6Zyo\nCross-platform Firebase Sample App: https://goo.gl/K6YRMh\nOpen-source tools for GCP security: https://goo.gl/XT9zWg\nManaged SSL for Google App Engine: https://goo.gl/5oAdbh\nNew German GCP region: https://goo.gl/jqB1AH\nAdWords dashboards: https://goo.gl/VMNBnf\n\n\nThe Developer Show is where you can stay up to date on all the latest Google Developer news, straight from the experts. \n\nHave a question? Use #AskDevShow to let us know!\n\nSubscribe to the Google Developers Channel for more DevShow! http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oBC5poZlqB4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oBC5poZlqB4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oBC5poZlqB4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oBC5poZlqB4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oBC5poZlqB4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "oBC5poZlqB4"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/89TvRaEEp4G2FUmukXcLT1wqkBI\"",
+      "id": "VTE1MDYxMDgyMjk5NDc3MjE4ODc0MjA5Ng==",
+      "snippet": {
+        "publishedAt": "2017-09-22T19:23:49.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "How to Build a Google Assistant App",
+        "description": "FYI: API.AI changed its name to Dialogflow!\n\nApps for the Google Assistant are the gateway for your users to engage with your services through Google Home, Android phones, iPhones, and in the future, through every experience where the Google Assistant is available. \n\nIn this video, @greenido shows you how to use API.AI and build an assistant app in less than 10 minutes.\n\nLearn more here:\nBlog post: https://goo.gl/yvU8az\nCodelab: https://goo.gl/Dcj7FC\nActions on Google: https://developers.google.com/actions/\n\nWatch more videos on how to build Google Assistant apps: https://goo.gl/SWJfNC\n\nSubscribe to the channel to never miss an episode: http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3NIopUsI4ik/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3NIopUsI4ik/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3NIopUsI4ik/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3NIopUsI4ik/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3NIopUsI4ik/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "3NIopUsI4ik"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/nM3CHH3cUwiPVGk3p3Z4P54tuW8\"",
+      "id": "VTE1MDYwMjkyMTk5NDc3MjE4ODc0MTkwNA==",
+      "snippet": {
+        "publishedAt": "2017-09-21T21:26:59.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Artificial Intelligence over Coffee with James McLurkin",
+        "description": "In this episode, @lmoroney meets with James McLurkin to talk about AIY -- Artificial Intelligence-it Yourself, a project from Google that is designed to 'build engineers', by giving you hands-on skills in building a device that uses Google's Artificial Intelligence technologies. We talk about a group of high school kids that were given these kits and a few days to see what they would come up with, and were blown away by the results! The goal is to put AI into the maker toolkit, to help you solve real problems that matter to you and your communities. These kits will get you started by adding natural human interaction to your maker projects. You can learn more at https://aiyprojects.withgoogle.com/\n\nWatch more episodes of Coffee with a Googler here: https://goo.gl/5l123N\nSubscribe to the Google Developers Channel: http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5ebKyxE5P0c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5ebKyxE5P0c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5ebKyxE5P0c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5ebKyxE5P0c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5ebKyxE5P0c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "5ebKyxE5P0c"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/DJlkhKu_AVlsJPmCcOsPDMHUWhQ\"",
+      "id": "VTE1MDU5Mjk4ODI5NDc3MjE5NDk3MzMyOA==",
+      "snippet": {
+        "publishedAt": "2017-09-20T17:51:22.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Budapest | Google Developers Launchpad Build, by Design Terminal",
+        "description": "The very first Google Developers Launchpad Build in Hungary took place in magical Budapest on June 22nd, 2017. The event was organized by Design Terminal, and the topic was “Grow & Monetize your User Base”.\n\nGoogle Developers Launchpad is a mentor-driven event structured to give startups, who have found their product market fit, the skills to take their product to the next level of growth, increase scale and reach, optimize their product or business, and make their business more productive.\n\nLaunchpad Build is part of the global Google Developers Launchpad program (g.co/launchpad). It provides startups in all stages with resources, online content, mentorship and training to help them succeed. \n\nOur local Launchpad partner, Design Terminal, organized this event in Budapest for local startup ecosystem.\n\nOfficial website for Google Developers Launchpad Build in Budapest, by Design Terminal: https://goo.gl/iWHp9T\n\nSubscribe to the Google Developers Channel! http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4BRET4zp01U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4BRET4zp01U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4BRET4zp01U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4BRET4zp01U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4BRET4zp01U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "4BRET4zp01U"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/QBL_8JqaIdHlytz0PO7PB_9w9qo\"",
+      "id": "VTE1MDU4NTU0NDg5NDc3MjE5NDk3NDE2MA==",
+      "snippet": {
+        "publishedAt": "2017-09-19T21:10:48.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "AdMob Mediation Groups Simplify Mediation - AdMob Quick Tip #2",
+        "description": "Have you tried AdMob's Mediation Groups? They're a new feature that can simplify the way you set up and configure mediated ad units -- those that target more than one ad network. Learn how to put them to work for your apps in AdMob Quick Tip #2.\n\nWatch more episodes of Mobile Ads Garage here: https://goo.gl/BDQvw6\n\nSubscribe to the Google Developers channel at http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rLWllZ_ce8A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rLWllZ_ce8A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rLWllZ_ce8A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rLWllZ_ce8A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rLWllZ_ce8A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "rLWllZ_ce8A"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/Wqrd1AjqRgHwx_TdpGS8hPXzLuE\"",
+      "id": "VTE1MDU3NTA0MzY5NDc3MjE5NDk3NTA1Ng==",
+      "snippet": {
+        "publishedAt": "2017-09-18T16:00:36.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Together with Google Developers - Google Community Program",
+        "description": "\"Together with Google Developers\" is a lightweight, online support channel that Google offers for developer communities. The program provides developer communities with content, community management trainings, speaker opportunities, and more.\n\nWe assist community leaders on their journey to build successful and active communities, which we see as a fantastic platform for developers to grow and connect with each other.\n\nVisit https://goo.gl/wZjW2r for more information about this program and what it has to offer.\n\nSubscribe to the Google Developers Channel! http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/reb8Bi2sdmg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/reb8Bi2sdmg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/reb8Bi2sdmg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/reb8Bi2sdmg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/reb8Bi2sdmg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "reb8Bi2sdmg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/yizkx9V4ovq-cYyjIeRWE7qK698\"",
+      "id": "VTE1MDU1MDk4OTM5NDc3MjE5NDk3Mzk2OA==",
+      "snippet": {
+        "publishedAt": "2017-09-15T21:11:33.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "The Developer Show (TL;DR 081)",
+        "description": "Web Share API: https://goo.gl/JJJBMA\nMobile Web Specialist Certification: https://goo.gl/vzZSn5\nZalando increases installs and revenue: https://goo.gl/3wFNje\nShopping campaigns: https://goo.gl/fPkPXa\nTensorBoard API: https://goo.gl/kAfvTf\nDedicated Interconnect: https://goo.gl/jKUGci\nCompute Engine: https://goo.gl/5aFgGe\n\n\nThe Developer Show is where you can stay up to date on all the latest Google Developer news, straight from the experts. \n\nHave a question? Use #AskDevShow to let us know!\n\nSubscribe to the Google Developers Channel for more DevShow! http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7Wfz719AJgQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7Wfz719AJgQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7Wfz719AJgQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7Wfz719AJgQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7Wfz719AJgQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "7Wfz719AJgQ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/oyPtoSfqhntqoVxkUzxsTihTydo\"",
+      "id": "VTE1MDU0MjI4MTQ5NDc3MjE5NDk3MzI2NA==",
+      "snippet": {
+        "publishedAt": "2017-09-14T21:00:14.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Learn about the Google Developers Agency Program over Coffee with Amit Chopra",
+        "description": "In this episode of Coffee with a Googler, lmoroney@ meets with Amit Chopra to talk about the Google Developer Community Agency Program (https://goo.gl/fQnBau) where  your agency will receive dedicated training and access to our latest products and APIs. \n\nWatch more episodes of Coffee with a Googler here: https://goo.gl/5l123N\nSubscribe to the Google Developers Channel: http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2jgZg67zepc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2jgZg67zepc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2jgZg67zepc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2jgZg67zepc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2jgZg67zepc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "2jgZg67zepc"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/DF8Qi9JTuKd_8YTA0p5ZhVwZzjA\"",
+      "id": "VTE1MDUzMjMzMTI5NDc3MjE5NDk3NDU0NA==",
+      "snippet": {
+        "publishedAt": "2017-09-13T17:21:52.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Let’s Write a Decision Tree Classifier from Scratch - Machine Learning Recipes #8",
+        "description": "Hey everyone! Glad to be back! Decision Tree classifiers are intuitive, interpretable, and one of my favorite supervised learning algorithms. In this episode, I’ll walk you through writing a Decision Tree classifier from scratch, in pure Python. I’ll introduce concepts including Decision Tree Learning, Gini Impurity, and Information Gain. Then, we’ll code it all up. Understanding how to accomplish this was helpful to me when I studied Machine Learning for the first time, and I hope it will prove useful to you as well.\n\nYou can find the code from this video here: \nhttps://goo.gl/UdZoNr\nhttps://goo.gl/ZpWYzt\n\nBooks! \nHands-On Machine Learning with Scikit-Learn and TensorFlow https://goo.gl/kM0anQ\n\nFollow Josh on Twitter: https://twitter.com/random_forests\n\nCheck out more Machine Learning Recipes here: https://goo.gl/KewA03\n\nSubscribe to the Google Developers channel: http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LDRbO9a6XPU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LDRbO9a6XPU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LDRbO9a6XPU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LDRbO9a6XPU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LDRbO9a6XPU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "LDRbO9a6XPU"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/E8ID1OvR_Yd4tYHhrPK-G1iaCKM\"",
+      "id": "VTE1MDUyNTA0MTY5NDc3MjE5NDk3NTU2OA==",
+      "snippet": {
+        "publishedAt": "2017-09-12T21:06:56.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "AdMob & Analytics FTW - AdMob Quick Tip #1",
+        "description": "The only thing better than a getting free usage data about your app from Google analytics for Firebase is getting it with AdMob financial data baked right in. And the only thing better that tracking your ad performance with AdMob's reporting capabilities is getting that plus usage data right in the AdMob UI. AdMob's first ever Quick Tip video can show you how to get both!\n\nAdMob with Firebase: https://goo.gl/uFLRtF\nAdMob and Firebase Analytics: https://goo.gl/TFyskZ\n\nWatch more episodes of Mobile Ads Garage here: https://goo.gl/BDQvw6\n\nSubscribe to the Google Developers channel at http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hSX2koEIEi4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hSX2koEIEi4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hSX2koEIEi4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hSX2koEIEi4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hSX2koEIEi4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "hSX2koEIEi4"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/WFY1_93ZVyo88na2VypJoi39nzk\"",
+      "id": "VTE1MDQ5MDYxMTA5NDc3MjE5NDk3MzA3Mg==",
+      "snippet": {
+        "publishedAt": "2017-09-08T21:28:30.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google Developers Agency Spotlight Presents: Mutual Mobile",
+        "description": "Mutual Mobile is an emerging tech agency that develops breakthrough digital applications for a more connected world. For Mutual Mobile, a great product is an intersection between art, humanities, and technology. Check out what makes them proud of their job!\n\nIn this video, learn more about their team, culture, the personality of their company, and what they think makes the Google Developer Agency a good partner for their journey to serve their international clients.\n\nhttps://mutualmobile.com/ \n\nGoogle Developers Agency Program: https://goo.gl/Qwnigs\n\nCheck out the rest of the Google Developers Agency Spotlight playlist: https://goo.gl/ShzccB\nSubscribe to the Google Developers Channel: http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bx88UI8o6Wg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bx88UI8o6Wg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bx88UI8o6Wg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bx88UI8o6Wg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bx88UI8o6Wg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "bx88UI8o6Wg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/Fa2qCTYKhLZrtHi04ImEzBom7DA\"",
+      "id": "VTE1MDQ4ODY2ODM5NDc3MjE5NDk3MjE3Ng==",
+      "snippet": {
+        "publishedAt": "2017-09-08T16:04:43.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "GDD Europe ’17 Highlights",
+        "description": "GDD Europe ’17 was packed full of great talks, codelabs, instructor lead courses, networking opportunities, and much more. If you missed the event, check out this recap. Also, we recorded all the sessions - you can find them here: https://goo.gl/6BFfHv\n\nGoogle Developer Days (GDD) are global events showcasing the latest developer products and platforms from Google to help you quickly develop high quality apps, grow & retain an active user base, and tap into tools to earn more.\n\nGoogle Developer Days website: https://goo.gl/gqz1Fw\n\nSubscribe to the Google Developers channel: http://goo.gl/mQyv5L\n\n#GDDEurope",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/K-er6CT66w0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/K-er6CT66w0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/K-er6CT66w0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/K-er6CT66w0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/K-er6CT66w0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "K-er6CT66w0"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/jHblLMFkkx66M-_X3TWQp4L3mUs\"",
+      "id": "VTE1MDQ4NjA0NjQ5NDc3MjE5NDk3Mjc1Mg==",
+      "snippet": {
+        "publishedAt": "2017-09-08T08:47:44.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Intro to DeepMind (GDD Europe '17)",
+        "description": "In this video, Juan Silveira gives an overview of the work DeepMind's been doing.\n\nCheck out the ‘All Sessions’ playlist for the rest of the talks that were given at GDD Europe ’17: https://goo.gl/6BFfHv\nSubscribe to the Google Developers channel: http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hzB1SdDvnq8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hzB1SdDvnq8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hzB1SdDvnq8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hzB1SdDvnq8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hzB1SdDvnq8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "hzB1SdDvnq8"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/fuAW-8glyBMWISpSlkrQFlPkyjY\"",
+      "id": "VTE1MDQ4MjIxMzg5NDc3MjE5NDk3NDIyNA==",
+      "snippet": {
+        "publishedAt": "2017-09-07T22:08:58.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Learn about Firebase Events with PM Megan Krilanovich",
+        "description": "The Firebase team works hard to put on great developer events and Megan Krilanovich, the brains behind many of them, meets with @lmoroney to chat about it over coffee! Learn about our swag, strategy and some upcoming events too...\n\nCheck out Firebase Codelabs at firebase.google.com\n\nFirebase Summit 2017: https://goo.gl/CgzdLe\n\nWatch more episodes of Coffee with a Googler here: https://goo.gl/5l123N\nSubscribe to the Google Developers Channel: http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KUOxJrRCzDY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KUOxJrRCzDY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KUOxJrRCzDY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KUOxJrRCzDY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KUOxJrRCzDY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "KUOxJrRCzDY"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/PuIVAvcP6OOymIKJKpyfNI2Cdc4\"",
+      "id": "VTE1MDQ3MTk0MDU5NDc3MjE5NDk3MzU4NA==",
+      "snippet": {
+        "publishedAt": "2017-09-06T17:36:45.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Closing Keynote (GDD Europe '17)",
+        "description": "Changing the world, one bit at a time.\n\nCheck out the ‘All Sessions’ playlist for the rest of the talks that were given at GDD Europe ’17: https://goo.gl/6BFfHv\nSubscribe to the Google Developers channel: http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZgaQn9coYfU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZgaQn9coYfU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZgaQn9coYfU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZgaQn9coYfU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZgaQn9coYfU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "ZgaQn9coYfU"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/2mXiqudCDHCHk7jMGNS8hQ3QqDE\"",
+      "id": "VTE1MDQ3MTgxODk5NDc3MjE5NDk3Mzc3Ng==",
+      "snippet": {
+        "publishedAt": "2017-09-06T17:16:29.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Modularizing Your App (GDD Europe '17)",
+        "description": "Modularizing your app helps you deliver the smallest APK to your users, which is critical for building instant apps and helpful for attacking emerging markets. Hear from Ben Weiss on how best to achieve this.\n\nWatch more Android talks at GDD Europe ’17 here: https://goo.gl/5uBFFR\n\nCheck out the ‘All Sessions’ playlist for the rest of the talks that were given at GDD Europe ’17: https://goo.gl/6BFfHv\nSubscribe to the Android Developers channel: http://goo.gl/GEh1ds",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8YxemdlSGts/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8YxemdlSGts/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8YxemdlSGts/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8YxemdlSGts/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8YxemdlSGts/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "8YxemdlSGts"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/lV48MFjtD3kw1tlFUBTazfSlhLs\"",
+      "id": "VTE1MDQ3MTc5NDk5NDc3MTk3MjM5MDAzMg==",
+      "snippet": {
+        "publishedAt": "2017-09-06T17:12:29.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "App to 60 - Using Firebase on Your Existing App (GDD Europe '17)",
+        "description": "So you've built the core of your app. Now how do you know what your users are up to? How can you re-engage them? And how can you keep crashes and jank out of your app, so they don't run away? In this video, Jen Person addresses these questions.\n\nCheck out the ‘All Sessions’ playlist for the rest of the talks that were given at GDD Europe ’17: https://goo.gl/6BFfHv\nSubscribe to the Google Developers channel: http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Wec3jyZWloY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Wec3jyZWloY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Wec3jyZWloY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Wec3jyZWloY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Wec3jyZWloY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "Wec3jyZWloY"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/rarZNFtgtzqSnTNJ9ZjdtdpICTo\"",
+      "id": "VTE1MDQ3MTc2NTQ5NDc3MjE5NDk3MjQ5Ng==",
+      "snippet": {
+        "publishedAt": "2017-09-06T17:07:34.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Performance Tooling (GDD Europe '17)",
+        "description": "Perf matters, and this year Google Play and Android Studio have delivered all-new tools to help diagnose performance issues to keep your apps fast and smooth. In this video, hear from Wojtek Kaliciński all about Android performance tooling.\n\nWatch more Android talks at GDD Europe ’17 here: https://goo.gl/5uBFFR\n\nCheck out the ‘All Sessions’ playlist for the rest of the talks that were given at GDD Europe ’17: https://goo.gl/6BFfHv\nSubscribe to the Android Developers channel: http://goo.gl/GEh1ds",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sTY_WeJtB5E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sTY_WeJtB5E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sTY_WeJtB5E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sTY_WeJtB5E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sTY_WeJtB5E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "sTY_WeJtB5E"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/M-twP1ny5AuaHyw0wedcHPJauKI\"",
+      "id": "VTE1MDQ3MTY2MjM5NDc3MjE5NDk3Mjg4MA==",
+      "snippet": {
+        "publishedAt": "2017-09-06T16:50:23.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "What's Next for the Web (GDD Europe '17)",
+        "description": "Whether you work on e-commerce, media, gaming, or some other type of site, you need to know about the future of the web. In this video, you'll learn what's next for APIs, platforms, and technologies. Chances are that you don't need a native app after all…\n\nWatch more Mobile Web and Chrome talks at GDD Europe ’17 here: https://goo.gl/VBSiFb\n\nCheck out the ‘All Sessions’ playlist for the rest of the talks that were given at GDD Europe ’17: https://goo.gl/6BFfHv\nSubscribe to the Chrome Developers channel: http://goo.gl/LLLNvf",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qnI2S_9TN-8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qnI2S_9TN-8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qnI2S_9TN-8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qnI2S_9TN-8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qnI2S_9TN-8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "qnI2S_9TN-8"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/msf6bbHPJfY-OCJOfWRUKoRQ_Zs\"",
+      "id": "VTE1MDQ3MTYzNjk5NDc3MjI1MDQ1MTkyMA==",
+      "snippet": {
+        "publishedAt": "2017-09-06T16:46:09.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Developing Conversational Assistant Apps Using Actions on Google (GDD Europe '17)",
+        "description": "The Google Assistant is available on both Google Home and Android phones. Actions on Google lets developers extend the Google Assistant to create your own conversational Assistant apps. In this video, Ido Green and Dan Imrie-Situnayake describe the key components of Actions on Google, show you how to easily build your first Assistant app using tools such as API.AI, and explore voice user interface (VUI) best practices in order to design compelling conversational experiences that delight users.\n\nCheck out the ‘All Sessions’ playlist for the rest of the talks that were given at GDD Europe ’17: https://goo.gl/6BFfHv\nSubscribe to the Google Developers channel: http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rdXR78bvXts/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rdXR78bvXts/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rdXR78bvXts/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rdXR78bvXts/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rdXR78bvXts/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "rdXR78bvXts"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/9VEXHHo07vM0uGnhT9NNxYYAdgQ\"",
+      "id": "VTE1MDQ3MTYwOTA5NDc3MjI5NTc4MDQ5Ng==",
+      "snippet": {
+        "publishedAt": "2017-09-06T16:41:30.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google Developer Days Europe 2017 - Day 2 (Auditorium)",
+        "description": "Check in to the livestream to watch day 2 of GDD Europe '17! This livestream will cover all sessions taking place on the Auditorium stage of the ICE Congress Center here in Krakow, Poland.\n\nCheck out the Day 1 event schedule here: https://goo.gl/MKSKfX\n\n\nGoogle Developer Days (GDD) are global events showcasing the latest developer products and platforms from Google to help you quickly develop high quality apps, grow & retain an active user base, and tap into tools to earn more.\n\nMusic by Terra Monk: https://goo.gl/t9AkfX\n\n#GDDEurope",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kmIBB0CIAvs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kmIBB0CIAvs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kmIBB0CIAvs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "kmIBB0CIAvs"
+        }
+      }
+    },
+    {
+      "kind": "youtube#activity",
+      "etag": "\"ld9biNPKjAjgjV7EZ4EKeEGrhao/FHf57jGzLhe4TCQQsx3nspTCDrU\"",
+      "id": "VTE1MDQ3MTI0NjM5NDc3MjA4NTc5MzA0MA==",
+      "snippet": {
+        "publishedAt": "2017-09-06T15:41:03.000Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Powering Your Apps with Location and Maps (GDD Europe '17)",
+        "description": "Google Maps brings the world to everyone's fingertips. In this video, you'll learn how you can leverage our APIs to bring Google Maps to your Android or iOS app. Brett Morgan shows you how to use styling to showcase your features and enable new use cases. Google Maps APIs can also give you lots of additional functionality, enabling you to build on our data about the world. Learn how to bring the world to your users!\n\nCheck out the ‘All Sessions’ playlist for the rest of the talks that were given at GDD Europe ’17: https://goo.gl/6BFfHv\nSubscribe to the Google Developers channel: http://goo.gl/mQyv5L",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ihvkBpTZ8P8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ihvkBpTZ8P8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ihvkBpTZ8P8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ihvkBpTZ8P8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ihvkBpTZ8P8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google Developers",
+        "type": "upload"
+      },
+      "contentDetails": {
+        "upload": {
+          "videoId": "ihvkBpTZ8P8"
+        }
+      }
+    }
+  ]
+}
