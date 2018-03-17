@@ -31,6 +31,9 @@ exports.secretData = {
     secondRoute:'tfrytiruytrrgr56767j98',
     thirdRoute:'dhaetyhaetgdhbfgbn5674ser',
     fourthRoute:'sdjogfnwo0aq23aojfnapw',
+    qrRoute:'vndor4sd8ass3aksdnalpaskp09',
+
+    superSecretData: 'mgUq9cSnDJ9g213tcAdukTZTNNaeuvndhE',
 
     users: [
         {

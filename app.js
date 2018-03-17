@@ -36,9 +36,12 @@ app.use(allowCrossDomain);
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
-app.get('/', (req, res, next) => {    
-   
+app.get('/', (req, res, next) => { 
     res.sendFile(path.join(__dirname + '/api.html'));   
+});
+
+app.get('/vndor4sd8ass3aksdnalpaskp09', (req, res, next) => { 
+    res.sendFile(path.join(__dirname + '/secretQrCode/qr.png'));   
 });
 
 app.post('/', (req, res, next) => {
@@ -270,7 +273,8 @@ app.post('/sdjogfnwo0aq23aojfnapw', (req,res) => {
                 res.json({
                     success: true,
                     message: 'Success! You have accessed the most secret data!',
-                    superSecretData:'Five busy honey bees were resting in the sun. The first one said, "Let us have some fun." The second one said, "Where shall it be?" The third one said, "In the honey tree." The fourth one said, "Let us make some honey sweet." The fifth one said, "With pollen on our feet." The five little busy bees sang their buzzing tune, As they worked in the beehive all that afternoon. Bzzzzzz! Bzzzzzz! Bzzzzzz! Bzzzzzz! Bzzzzzz!'
+                    secretAddress: secret.secretData.superSecretData,
+                    secretQr: secret.secretData.qrRoute
                 });                
             });        
         }
